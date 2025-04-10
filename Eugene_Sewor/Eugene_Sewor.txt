@@ -1,0 +1,2 @@
+I've learn't the importance of python to the DevOps journey, it is really easy to ochestrate and provision infrastructure using the various tools provided in python 
+Last modified on: 2025-04-05 16:19:04
