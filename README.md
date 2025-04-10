@@ -30,4 +30,4 @@ Upon execution, the script creates:
 - A directory named "Eugene_Sewor"
 - A file named "Eugene_Sewor.txt" within the directory
 
-![Directory Structure Screenshot](Screenshot%202025-04-10%20at%204.16.17%20PM.png)
+![Directory Structure Screenshot](directory.png)
